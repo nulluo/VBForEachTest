@@ -1,5 +1,6 @@
 # VBForEachTest
 Test the difference between For and For Each Loop (VB.NET)
+
 VB.NET‚É‚¨‚¯‚éFor•¶‚ÆFor Each•¶‚Ìˆá‚¢‚ğŒŸØ‚µ‚Ü‚·B
 
 Qiita
